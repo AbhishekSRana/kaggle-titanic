@@ -1,7 +1,7 @@
 # kaggle-titanic
 
 
-*code.py  -- code 
+* code.py  -- code 
 
 
 * prediction-- prediction of test set
